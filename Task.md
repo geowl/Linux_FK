@@ -489,3 +489,5 @@ mysql> SELECT * FROM AllAnimals;
 
 5 rows in set (0,00 sec)
 
+Код в папке:
+[КОД](https://github.com/geowl/Linux_FK/tree/main/Programm)
