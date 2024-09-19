@@ -77,6 +77,7 @@
 считать в ресурсе try, если при заведения животного заполнены все поля. </h3>
 
 <h1>Выполнение в файле Task.md</h1> 
-Тут:
-[]:(https://github.com/geowl/Linux_FK/blob/main/Task.md)
+Ссылка ниже
+
+[Задание](https://github.com/geowl/Linux_FK/blob/main/Task.md)
 
